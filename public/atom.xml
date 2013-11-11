@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Southside Cackerspace]]></title>
+  <link href="http://www.southsidehackerspace.org/atom.xml" rel="self"/>
+  <link href="http://www.southsidehackerspace.org/"/>
+  <updated>2013-09-25T18:26:07-05:00</updated>
+  <id>http://www.southsidehackerspace.org/</id>
+  <author>
+    <name><![CDATA[Southside Hackers]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://www.southsidehackerspace.org/blog/2013/09/25/hello/"/>
+    <updated>2013-09-25T18:24:00-05:00</updated>
+    <id>http://www.southsidehackerspace.org/blog/2013/09/25/hello</id>
+    <content type="html"><![CDATA[<p>Hello world.</p>
+]]></content>
+  </entry>
+  
+</feed>

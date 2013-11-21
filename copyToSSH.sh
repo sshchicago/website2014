@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scp -r ~/ssh_site/* cagocs@sshchicago.org:dropdir
+scp -r public/* cagocs@sshchicago.org:dropdir

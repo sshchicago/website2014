@@ -1,19 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.southsidehackerspace.org/blog/2013/09/25/hello/</loc>
-        <lastmod>2013-09-25T18:25:29-05:00</lastmod>
+        <loc>staging.sshchicago.org/blog/2013/09/25/hello/</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.southsidehackerspace.org/</loc>
-        <lastmod>2013-09-25T18:25:29-05:00</lastmod>
+        <loc>staging.sshchicago.org/blog/2013/11/11/hackerspace-buildout/</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.southsidehackerspace.org/blog/archives/</loc>
-        <lastmod>2013-09-25T18:25:29-05:00</lastmod>
+        <loc>staging.sshchicago.org/blog/2013/11/20/drywall/</loc>
+        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
     </url>
     <url>
-        <loc>http://www.southsidehackerspace.org/robots.txt</loc>
-        <lastmod>2013-09-25T18:24:29-05:00</lastmod>
+        <loc>staging.sshchicago.org/about/</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/blog/archives/</loc>
+        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/calendar/</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/contact/</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/</loc>
+        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/index_old.html</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/robots.txt</loc>
+        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
     </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.southsidehackerspace.org/sitemap.xml 
+Sitemap: staging.sshchicago.org/sitemap.xml 

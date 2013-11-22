@@ -2,46 +2,50 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>staging.sshchicago.org/blog/2013/09/25/hello/</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/blog/2013/11/11/hackerspace-buildout/</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/blog/2013/11/20/drywall/</loc>
-        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/about/</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/blog/archives/</loc>
-        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
+    </url>
+    <url>
+        <loc>staging.sshchicago.org/blog/</loc>
+        <lastmod>2013-11-21T21:03:29-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/calendar/</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/contact/</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/facilities/</loc>
-        <lastmod>2013-11-21T12:07:32-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/</loc>
-        <lastmod>2013-11-20T19:50:57-06:00</lastmod>
+        <lastmod>2013-11-21T21:15:49-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/index_old.html</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T21:01:53-06:00</lastmod>
     </url>
     <url>
         <loc>staging.sshchicago.org/robots.txt</loc>
-        <lastmod>2013-11-11T15:45:40-06:00</lastmod>
+        <lastmod>2013-11-21T20:39:55-06:00</lastmod>
     </url>
 </urlset>

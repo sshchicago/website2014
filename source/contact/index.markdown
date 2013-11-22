@@ -21,6 +21,9 @@ In Person
 Unit 214  
 Chicago, IL 60608  
 
+From Cermack, turn south on Throop St. We're in the first large 
+rick building on the left. Make the first left into the parking lot, and then continue around to the rear of the building. Go up the wooden stairs where there should be a security guard to let you in, and then continue to the second floor, unit 214.
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2233+South+Throop+Street,+Chicago,+IL&amp;aq=0&amp;oq=2233+South+Thro&amp;sll=41.833733,-87.731964&amp;sspn=0.646672,1.674042&amp;ie=UTF8&amp;hq=&amp;hnear=2233+S+Throop+St,+Chicago,+Illinois+60608&amp;t=m&amp;z=14&amp;ll=41.850564,-87.658067&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2233+South+Throop+Street,+Chicago,+IL&amp;aq=0&amp;oq=2233+South+Thro&amp;sll=41.833733,-87.731964&amp;sspn=0.646672,1.674042&amp;ie=UTF8&amp;hq=&amp;hnear=2233+S+Throop+St,+Chicago,+Illinois+60608&amp;t=m&amp;z=14&amp;ll=41.850564,-87.658067" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 General Meetings

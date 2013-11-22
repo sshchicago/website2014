@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: staging.sshchicago.org/sitemap.xml 

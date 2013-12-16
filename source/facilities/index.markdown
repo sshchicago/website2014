@@ -26,7 +26,11 @@ The Tools
 
 This list will be out of date as soon as it is published, but our tool list includes (but is not limited to):
 
-* A full electronics bench with:
+* 3D Printers Galore {% img right /images/photos/printed-chain.jpg 300 %}
+	* A Reprap
+	* a more different rep-rap
+	* a Makerbot Cupcake
+* A full electronics bench with: {% img right /images/photos/oscilloscopes.jpg 300 %}
 	* a solder station
 	* a hot air rework gun
 	* oodles of components
@@ -37,7 +41,7 @@ This list will be out of date as soon as it is published, but our tool list incl
 	* hammers
 	* screwdrivers
 	* power drills
-* Woodworking tools
+* Woodworking tools {% img right /images/photos/woodshop-tools.jpg 300 %}
 	* two band saws
 	* two table saws
 	* a drill press

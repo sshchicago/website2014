@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "about us"
-date: 2013-09-25 18:31
+date: 2013-12-11 18:31
 comments: true
 sharing: true
 footer: true
@@ -12,7 +12,8 @@ The Southside Hackerspace is a collection of nerds, makers, hackers, artists, st
 Mission Statement
 -----------------
 
-The Southside Hackerspace strives to be an open, safe space for all people to come together and create interesting things.
+The Hackerspace’s mission is to establish a community space in which members can collaborate and share knowledge (with each other and the broader community) and to foster an independent network for innovative thinking and creative endeavors.
+
 
 Finding Us
 ----------

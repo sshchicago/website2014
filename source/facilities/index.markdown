@@ -57,5 +57,5 @@ The Technology
 --------------
 
 We currently have an empty rack and a handful of servers sitting around.
-We're working on getting perminent internet access to the space -- it's currently stalled in the process of getting an easement from the railroad to our north.
-We temporarially have a small 4G hotspot serving the needs of our members day-to-day.
+We recently got a 50 Mb/s down, 10Mb/s up Internet connection! Come celebrate this with us by hosting something in our space!
+ 

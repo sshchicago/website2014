@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Press Release"
-date: 2014-04-09 23:58
+layout: page
+title: "IndieGoGo Press Release"
+date: 2014-04-09 19:51
 comments: true
-categories: 
+sharing: true
+footer: true
 ---
 
 Southside Hackerspace aims for $7,000 in under a month!

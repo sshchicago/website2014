@@ -4,6 +4,7 @@ title: "How to charge a dead battery"
 date: 2013-12-02 22:51
 comments: true
 categories: 
+author: Agocs
 ---
 
 I was hacking at the space last week. I had brought my old Nikon D1X along, wanting to take some photos, but the battery was dead! I didn't have the charger at the space, so what's a guy to do?

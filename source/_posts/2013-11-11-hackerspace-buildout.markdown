@@ -4,6 +4,7 @@ title: "Hackerspace Buildout"
 date: 2013-11-11 14:48
 comments: true
 categories: 
+author: Agocs
 ---
 
 

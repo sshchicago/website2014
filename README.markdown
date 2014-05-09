@@ -27,7 +27,7 @@ author: My Name
 Write your post below that, using [Markdown syntax](http://daringfireball.net/projects/markdown/syntax). 
 
 
-Images are a huge pain in the ass.
+Images are a huge pain in the ass. Please at least indicate where you would like them to go.
 
 {% img center /images/photos/whatevs.png  %}
 

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "C2E2"
+date: 2014-04-27 10:08
+comments: true
+categories:
+author: Jessica
+---
+
+We had a rockin' time at C2E2 helping out our fellow makers from South Florida with their 3D Printing business called Zero Point 3D! Check out our FB album [here](https://www.facebook.com/media/set/?set=a.766994319985407.1073741838.383433578341485&type=1&l=697e492491)!
+
+These guys hacked some cool tech together in order to scan people on a rotating platform and create ceramic 3D-printed model figurines of them! Neat huh? Check out their [FB page](https://www.facebook.com/zeropoint3d) and [website](http://zeropoint3d.com/) for more info.
